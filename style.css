@@ -9,8 +9,10 @@
     font-size: 50px;
 }
 .fundo{
-    background-color: var(--cor-fundo);
     color: var(--cor-letra);
     font-size: 25px;
     text-align: justify;
+}
+.caixa-principal{
+    background-color: #040e01;
 }
