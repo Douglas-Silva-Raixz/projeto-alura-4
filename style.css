@@ -5,7 +5,7 @@
     --cor-letra: #ffffff;
 }
 .titulo{
-    color: var(--cor-letra);
+    color: var(--cor-verde);
     text-align: center;
     font-size: 50px;
 }
