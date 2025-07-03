@@ -1,0 +1,8 @@
+:root{
+    --cor-fundo:  #040e01;
+    --cor-letra: #32d800;
+    --cor-secundaria: #124d00;
+}
+.titulo{
+    color: var(--cor-letra);
+}
