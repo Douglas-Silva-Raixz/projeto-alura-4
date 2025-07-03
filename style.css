@@ -14,7 +14,7 @@
     background-color: var(--cor-fundo);
     font-size: 25px;
     text-align: justify;
-    grid-template-columns: 33%;
+    grid-template-columns: 25%;
 }
 .caixa-alternativas{
     font-size: 20px;
