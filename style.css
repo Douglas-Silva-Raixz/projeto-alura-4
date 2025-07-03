@@ -21,7 +21,6 @@
 }
 .caixa-alternativas{
     font-size: 20px;
-    background-color: var(--cor-secundaria);
     color: var(--cor-verde);
     padding: 15px;
 }
