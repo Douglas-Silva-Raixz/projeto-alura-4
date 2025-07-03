@@ -11,6 +11,7 @@
 }
 .fundo{
     color: var(--cor-letra);
+    background-color: var(--cor-fundo);
     font-size: 25px;
     text-align: justify;
     grid-template-columns: 33%;
